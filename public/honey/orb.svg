@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff0cc"/><stop offset="1" stop-color="#fffdf7"/></linearGradient><linearGradient id="jar" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe58a"/><stop offset=".55" stop-color="#f3a33a"/><stop offset="1" stop-color="#a95e10"/></linearGradient></defs>
+<rect width="800" height="460" rx="34" fill="url(#bg)"/>
+<circle cx="110" cy="110" r="72" fill="#ffffff80"/><circle cx="690" cy="88" r="48" fill="#ffffff70"/>
+<ellipse cx="405" cy="365" rx="170" ry="28" fill="#8b5a2418"/>
+<rect x="287" y="105" width="236" height="260" rx="48" fill="url(#jar)" stroke="#70451f" stroke-width="8"/>
+<rect x="320" y="70" width="170" height="70" rx="18" fill="#6c4b2f"/>
+<rect x="310" y="188" width="190" height="100" rx="18" fill="#fffaf0" stroke="#d8b56d" stroke-width="4"/>
+<text x="405" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#5b452f">HONEYCHAIN</text>
+<text x="405" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#8a5a00">Orange Blossom Honey</text>
+<text x="405" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="34">🍊</text>
+<text x="54" y="405" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#684c2f">Traceable • Pure • Trusted</text>
+</svg>

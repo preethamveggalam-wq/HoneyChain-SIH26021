@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    { "source": "/api/qr", "destination": "/api/qr.js" },
+    { "source": "/api/send-customer-message", "destination": "/api/send-customer-message.js" }
+  ],
+  "headers": [
+    {
+      "source": "/api/qr",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=3600, s-maxage=3600" }
+      ]
+    }
+  ]
+}
